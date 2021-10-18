@@ -1,0 +1,1 @@
+select Progs.Sigla, Docentes.Nome, Trabalhos.Autor, Trabalhos.Idioma, Docentes.Nacionalidade from Progs, Docentes, Trabalhos where Progs.Nivel = "6" and Progs.Programa = Docentes.CodigodoPPG and Progs.Programa = Trabalhos.CodigodoPPG and Trabalhos.Orientador = Docentes.Nome

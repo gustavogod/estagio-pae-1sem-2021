@@ -1,0 +1,23 @@
+https://www.ultraboardgames.com/quarto/game-rules.php
+
+http://thanos.icmc.usp.br:50001/jogo.html
+
+Instruções para montar a saída
+
+1-Celulas vazias no tabuleiro devem ser representadas com -
+
+2-Celulas com peça devem ser representadas com o valor Hexa de cada peça
+
+3-Na linha após o tabuleiro, apresente 1 ou 2, indicando qual jogador venceu. Se os valores da entrada não levarem a vitória, apresente 0
+
+4-Logo abaixo, indique o valor em Hexa da sequência de quatro células que levou a vitória (caso tenha vitória) 
+
+5-Por fim, apresente a caracteristica que levou a vitória (caso tenha vitória)
+5.1 As caracteristica são as seguintes:
+branca ou escura
+grande ou pequena
+circular ou quadrada
+solida ou oca
+5.2 A verificação de caracteristicas devem seguir essa mesma ordem
+
+6-As caracteristicas devem ser verificadas seguindo a ordem: Linha, Coluna e Diagonal

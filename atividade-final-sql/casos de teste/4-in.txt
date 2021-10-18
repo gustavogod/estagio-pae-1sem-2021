@@ -1,0 +1,1 @@
+select Trabalhos.Ano, Trabalhos.Autor, Trabalhos.Orientador, Trabalhos.Idioma from Trabalhos

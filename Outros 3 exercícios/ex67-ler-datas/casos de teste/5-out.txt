@@ -1,0 +1,40 @@
+DATA INVALIDA
+DATA INVALIDA
+DATA INVALIDA
+01 de janeiro de 2000
+31 de janeiro de 2000
+27 de fevereiro de 2000
+27 de fevereiro de 2000
+28 de fevereiro de 2000
+29 de fevereiro de 2000
+DATA INVALIDA
+DATA INVALIDA
+27 de fevereiro de 2100
+28 de fevereiro de 2100
+DATA INVALIDA
+27 de fevereiro de 2003
+28 de fevereiro de 2003
+DATA INVALIDA
+30 de marco de 0002
+31 de marco de 0002
+30 de abril de 0020
+DATA INVALIDA
+30 de maio de 0200
+31 de maio de 0200
+30 de junho de 2000
+DATA INVALIDA
+30 de julho de 2000
+31 de julho de 2000
+30 de agosto de 2000
+31 de agosto de 2000
+30 de setembro de 2000
+DATA INVALIDA
+30 de outubro de 2000
+31 de outubro de 2000
+30 de novembro de 2000
+DATA INVALIDA
+30 de dezembro de 2000
+31 de dezembro de 2000
+DATA INVALIDA
+DATA INVALIDA
+DATA INVALIDA
